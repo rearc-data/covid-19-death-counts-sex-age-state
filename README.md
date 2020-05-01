@@ -4,7 +4,7 @@
 
 # Provisional COVID-19 Death Counts by Sex, Age, and State | CDC / NCHS
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-fbud5zxqg37cm](https://aws.amazon.com/marketplace/pp/prodview-fbud5zxqg37cm). 
 
 ## Main Overview:
 This release contains the provisional count of deaths involving coronavirus disease 2019 (COVID-19) by Sex, Age and State released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS).
